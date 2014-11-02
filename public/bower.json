@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "homepage": "https://github.com/imamhidayat92/money-log",
+  "authors": [
+    "Imam Hidayat <imam.hidayat92@gmail.com>"
+  ],
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "ember": "components/ember#~1.8.0",
+    "ember-data": "components/ember-data#~0.0.14"
+  }
+}
